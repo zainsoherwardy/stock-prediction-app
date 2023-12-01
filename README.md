@@ -1,5 +1,7 @@
 # Stock Prediction App
 
+Link: https://stocktrendpredictions.streamlit.app/
+
 # Description
 The Stock Prediction App is an interactive tool designed for forecasting stock market trends. Built with Python and integrating yfinance, Prophet, and plotly, it offers a user-friendly interface for analyzing and predicting stock prices. The app allows users to input any stock ticker, providing flexibility in stock selection, and features an adjustable prediction range.
 
